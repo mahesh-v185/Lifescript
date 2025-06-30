@@ -1,0 +1,22 @@
+{
+  "name": "lifescript-–-turn-your-days-into-a-book",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^0.12.0",
+    "htm": "^3.1.1",
+    "jspdf": "2.5.1",
+    "preact": "^10.26.9"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.3.5"
+  }
+}
